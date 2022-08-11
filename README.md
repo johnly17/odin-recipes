@@ -1,1 +1,2 @@
 # odin-recipes
+<p>This is the first project of the odin project where I will be creating a webpage for recipes. This will allow me to demonstrate my skills of using basic HTML code to create an HTML webpage.</p>
